@@ -1,0 +1,5 @@
+*.swp
+*.vswp
+_v_recyle_bin
+*.json
+STM32
